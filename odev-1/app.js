@@ -12,4 +12,4 @@ const app = Vue.createApp({
             return Math.round(Math.random());
         }
     },
-}).mount("#exercise")
+}).mount("#exercise")  
